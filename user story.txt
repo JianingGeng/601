@@ -1,0 +1,6 @@
+
+
+As a reader/ gamer, I usually need to find a good book/game form many candidates. 
+Thus, I want a application that could tell me quickly that whether a book/ game is 
+worth to read/buy according to the book/game review website I found.So I don't need 
+to read every reviews and decide by myself.
