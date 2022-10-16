@@ -14,8 +14,9 @@ I also use FHIR view function to check information in the dataset I imported.
 Phase2
 
 I modified my whole project mission to use twitter api to collect data  and use google
- nlp api to analysis the data. Becasue I didn't get the twitter elevated access, I don't 
-have access to full archive public data. I have to make a new user story  according to the 
+ nlp api to analysis the data. First I use twitter stream api to collect data but it gaive me error that 
+I need elevated access. Becasue I didn't get the twitter elevated access (my apllication still not been approved)
+, I don't have access to full archive public data. I have to make a new user story according to the 
 access type I have. My new user story is:If I am curious about other or myself's emotions
  the past several days, I can get the result by typing my twitter account name. 
 
